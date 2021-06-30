@@ -1,0 +1,51 @@
+.form {
+    text-align: right;
+  }
+  
+  .form button {
+    font: inherit;
+    cursor: pointer;
+    background-color: #8a2b06;
+    border: 1px solid #8a2b06;
+    color: rgb(255, 255, 255);
+    padding: 8px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+  }
+
+  .add{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .buttons{
+    margin: 27px 0px 0 12px;
+  }
+
+  .delete{
+    text-align: right;
+    font: inherit;
+    cursor: pointer;
+    background-color: #8a2b06;
+    border: 1px solid #8a2b06;
+    color: rgb(255, 255, 255);
+    padding: 8px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+  }
+  .viewDetails{
+    padding: 0.25rem 2rem;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .viewDetailsLogIn{
+    margin: 40px 0 0 0;
+  }
+  
+  .form button:hover,
+  .form button:active {
+    background-color: #641e03;
+    border-color: #641e03;
+  }

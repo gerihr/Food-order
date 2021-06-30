@@ -1,0 +1,20 @@
+.adminProfile {
+    text-align: center;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    padding: 35px 35px 35px 35px;
+    margin-top: 74px;
+    border-radius: 17px;
+  }
+  
+  .container {
+    justify-content: center;
+    display: block !important;
+  }
+
+  .fieldsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+ 

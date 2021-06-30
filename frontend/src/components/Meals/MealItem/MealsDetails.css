@@ -1,0 +1,54 @@
+.mealContainer {
+	display: flex;
+	width: 60%;
+	box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+	padding: 35px 35px 35px 35px;
+	margin-top: 74px;
+	border-radius: 17px;
+}
+
+.mealName {
+	text-align: center;
+}
+
+.mealPrice {
+	text-align: center;
+
+}
+
+.frame {
+	display: flex;
+	justify-content: center;
+}
+
+.right-column {
+	padding: 020px 15px 0 35px;
+	position: relative;
+}
+
+.mealDescription {
+	text-align: center;
+}
+
+.mealImage {
+	border-radius: 50%;
+	box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+	height: 404px;
+	width: 600px;
+}
+
+.add {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 4px;
+	font: inherit;
+	cursor: pointer;
+	background-color: #8a2b06;
+	border: 1px solid #8a2b06;
+	color: rgb(255, 255, 255);
+	padding: 8px 20px;
+	border-radius: 20px;
+	font-weight: bold;
+	position: absolute;
+	left: 45%;
+}

@@ -1,0 +1,19 @@
+.profile {
+    margin: 3rem auto;
+    text-align: center;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    padding: 35px 35px 35px 35px;
+    margin-top: 74px;
+    border-radius: 17px;
+    /* display: flex; */
+     width: 50%;
+  }
+  
+  .container {
+    justify-content: center;
+    display: flex;
+  }
+  .profile h1 {
+    font-size: 50px
+  }
